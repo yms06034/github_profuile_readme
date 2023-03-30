@@ -23,14 +23,6 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/yms06034">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yms06034&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yms06034&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-
 <table border="0" align="center">
 <tr border="0">
 <td width="50%" align="center">
