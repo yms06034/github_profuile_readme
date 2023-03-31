@@ -3,41 +3,60 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-- **Languages**:
+- **Programming Languages**:
 
     ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
     ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
 
-- **Front-End Development**:
+- **Frontend Development**:
 
     ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
     ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+    ![SASS](https://img.shields.io/badge/-sass-05122A?style=flat&logo=sass)&nbsp;
     ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
     ![Vue.js](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)&nbsp;
+    
+    
+- **Backend Development(Framework)**:
+
+    ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
+    ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+    ![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)&nbsp;
+    
+
+- **Data engineer**:
+
+    ![Spark](https://img.shields.io/badge/-Spark-05122A?style=flat&logo=apache-spark)&nbsp;
+    ![Hadoop](https://img.shields.io/badge/-Hadoop-05122A?style=flat&logo=apache-hadoop)&nbsp;
+    ![Airflow](https://img.shields.io/badge/-Airflow-05122A?style=flat&logo=apache-airflow)&nbsp;
+    ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)&nbsp;
 
 
-- **Dev Tools**:
+- **Database**:
+
+    ![mongoDB](https://img.shields.io/badge/-mongoDB-05122A?style=flat&logo=mongoDB)&nbsp;
+    ![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)&nbsp;
+    ![Postgresql](https://img.shields.io/badge/-Postgresql-05122A?style=flat&logo=postgresql)&nbsp;
+    
+
+- **Other Tools**:
 
     ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
     ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-    ![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=notion&logoColor=007ACC)&nbsp;
+    ![Linux](https://img.shields.io/badge/-linux-05122A?style=flat&logo=linux)&nbsp;
+    ![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=notion)&nbsp;
+    ![Figma](https://img.shields.io/badge/-figma-05122A?style=flat&logo=figma) \
+    ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
+    ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+    ![sketch](https://img.shields.io/badge/-sketch-05122A?style=flat&logo=sketch)&nbsp;
+   
 
 
 
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 
 
 
-
-
-
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
-
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 
 ### ⚙️ &nbsp;GitHub Analytics
 
