@@ -65,7 +65,6 @@
 <td width="50%" align="center">
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=yms06034&theme=cobalt&show_icons=true&count_private=true" />
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yms06034)](https://github.com/anuraghazra/github-readme-stats)
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yms06034&theme=dark&hide_border=true" />
 
