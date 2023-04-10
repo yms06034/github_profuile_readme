@@ -37,7 +37,11 @@
 
     ![mongoDB](https://img.shields.io/badge/-mongoDB-05122A?style=flat&logo=mongoDB)&nbsp;
     ![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)&nbsp;
-    ![Postgresql](https://img.shields.io/badge/-Postgresql-05122A?style=flat&logo=postgresql)&nbsp;
+    ![Postgresql](https://img.shields.io/badge/-Postgresql-05122A?style=flat&logo=postgresql)&nbsp; \
+    ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
+    ![Cassandra](https://img.shields.io/badge/-Cassandra-05122A?style=flat&logo=apache-cassandra)&nbsp;
+
+    
     
 
 - **Other Tools**:
